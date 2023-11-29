@@ -1,1 +1,171 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 15px;
+    padding: 5px;
+}
+
+header {
+    color: solid black;
+    text-align: center;
+    padding: 20px;
+}
+
+.section {
+    box-sizing: border-box;
+    padding: 20px;
+    float: left;
+    width: 100%;
+    position: relative;
+    margin-bottom: 20px;
+    background-color: #e0e0e0;
+    border: 2px solid #000;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.section-title {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: #333;
+    color: #fff;
+    padding: 5px 10px;
+    margin: 0;
+    border: 2px solid #000; 
+    font-size: 125%;
+}
+
+h2 {
+    margin-top: 20px;
+    font-size: 150%;
+}
+
+p {
+    margin-bottom: 10px;
+    margin-top: 25px;
+    font-size: 16px;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .section {
+        width: 50%;
+    }
+}
+
+@media (min-width: 992px) {
+    .section {
+        width: 33.33%;
+    }
+}
+
+@media (max-width: 767px) {
+    .section {
+        width: 100%;
+    }
+}
+
+div {
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
