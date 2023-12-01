@@ -23,7 +23,7 @@ header {
     background-color: #e0e0e0;
     border: 2px solid #000;
     margin: 0;
-    height: 45px;
+    height: auto;
 }
 
 ol {
