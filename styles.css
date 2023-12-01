@@ -5,9 +5,10 @@ body {
 }
 
 header {
-    color: solid black;
+    color: #cd0511;
     text-align: center;
     padding: 20px;
+    font-family: 'Helvetica', neue;
 }
 
 .section {
