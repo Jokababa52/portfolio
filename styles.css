@@ -13,9 +13,10 @@ header {
 }
 
 .section {
+    box-sizing: border-box;
     padding: 20px;
     float: left;
-    width: 230px;
+    width: 100%;
     position: relative;
     margin-bottom: 20px;
     background-color: #e0e0e0;
