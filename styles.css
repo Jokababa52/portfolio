@@ -23,6 +23,14 @@ header {
     margin-left: auto;
 }
 
+ol {
+            padding-left: 20px;
+        }
+
+li {
+            margin-bottom: 8px;
+        }
+
 .section-title {
     position: absolute;
     top: 0;
