@@ -19,14 +19,12 @@ header {
     width: 100%;
     position: relative;
     margin-bottom: 20px;
-    background-color: #e0e0e0;
+    background-color: #000000;
     border-bottom: 1px solid black;
     border-left: 1px solid black;
     margin: 0;
     text-align: center;
     height: 45px;
-    margin-right: auto;
-    margin-left: auto;
 }
 
 ol {
