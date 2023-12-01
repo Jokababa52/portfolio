@@ -1,8 +1,10 @@
-body {
+* {
     box-sizing: border-box;
     font-family: 'Helvetica', neue;
-    margin: 15px;
-    padding: 5px;
+}
+
+body {
+    background-color: #000000;
 }
 
 header {
@@ -13,7 +15,6 @@ header {
 }
 
 .section {
-     box-sizing: border-box;
     padding: 20px;
     float: left;
     width: 100%;
